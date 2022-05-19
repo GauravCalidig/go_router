@@ -426,6 +426,7 @@ class GoRouterDelegate extends RouterDelegate<Uri>
 
     assert(matchStacks.isNotEmpty, 'no routes for location: $location');
     //TODO : Commenting for https://github.com/flutter/flutter/issues/99833
+    // Once the issue is fixed, Please use Original Pacakge from pub.dev
     // assert(() {
     //   if (matchStacks.length > 1) {
     //     final StringBuffer sb = StringBuffer()

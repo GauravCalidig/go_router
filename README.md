@@ -1,5 +1,8 @@
 # Welcome to go_router!
 
+Using this clone for https://github.com/flutter/flutter/issues/99833 issue.
+Once this gets fixed we can use original package
+
 The purpose of [the go_router package](https://pub.dev/packages/go_router) is to
 use declarative routes to reduce complexity, regardless of the platform you're
 targeting (mobile, web, desktop), handle deep and dynamic linking from
